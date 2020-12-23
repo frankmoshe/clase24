@@ -1,0 +1,6 @@
+basic.csv: basic dataset to start
+    - description: product description in lowercase, without any other refinement
+    - cat_sub: key that represent the category and subcategory, separated by _
+categories.json: map of key to values for categories
+subcategories.json: map of key to values for subcategories
+cat_sub_counter.json: counter of products for each subcategory
